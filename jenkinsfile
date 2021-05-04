@@ -40,7 +40,7 @@ pipeline{
                     println("获取代码")
                     println("*****"+"${test}")
                     
-                    tools.PrintMes("this is lib!")
+                    mytools.PrintMes("this is lib!")
                 }
             }
         }
